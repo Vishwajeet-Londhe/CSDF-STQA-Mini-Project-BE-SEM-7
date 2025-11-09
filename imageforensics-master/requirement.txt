@@ -1,8 +1,0 @@
-opencv-python
-Pillow
-exifread
-scipy
-PyWavelets
-numpy
-progressbar2
-matplotlib
