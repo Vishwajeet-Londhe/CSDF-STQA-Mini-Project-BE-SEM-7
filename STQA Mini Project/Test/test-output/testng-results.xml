@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-03T14:18:52 IST" name="Default suite" finished-at="2025-11-03T14:19:15 IST" duration-ms="22415">
+    <groups>
+    </groups>
+    <test started-at="2025-11-03T14:18:52 IST" name="Default test" finished-at="2025-11-03T14:19:15 IST" duration-ms="22415">
+      <class name="Test.AlreadyRegUser">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.AlreadyRegUser@38425407]" started-at="2025-11-03T14:18:53 IST" name="setup" finished-at="2025-11-03T14:18:56 IST" duration-ms="3617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validMobileNumberSearch()[pri:0, instance:Test.AlreadyRegUser@38425407]" started-at="2025-11-03T14:18:56 IST" name="validMobileNumberSearch" finished-at="2025-11-03T14:19:15 IST" duration-ms="18328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validMobileNumberSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test.AlreadyRegUser@38425407]" started-at="2025-11-03T14:19:15 IST" name="tearDown" finished-at="2025-11-03T14:19:15 IST" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.AlreadyRegUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
