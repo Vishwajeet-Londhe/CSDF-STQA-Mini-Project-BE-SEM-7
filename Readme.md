@@ -1,6 +1,6 @@
 ### Team Name: Vishwajeet Londhe, Sahil Mate, Hemali Bharambe, Vaibhavi Mohite
 
-### Mini Project CSDF:
+### CSDF Mini Project:
 Design and develop a tool for digital forensic of images.
 
 ### STQA Mini Project:
