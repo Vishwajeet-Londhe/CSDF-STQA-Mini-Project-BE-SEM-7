@@ -1,26 +1,18 @@
 # STQA Mini Project – COVID-19 Dynamic Website & Regular Expression Test Cases
 
+---
+## **Project Team**
+
+- **Vishwajeet Londhe**  
+- **Hemali Bharambe**  
+- **Sahil Mate**  
+- **Vaibhavi Mohite**
+---
+
 ## Overview
-This STQA Mini Project includes a **Dynamic Website for COVID-19 Information** and a **Testing Module** based on **Regular Expressions**.  
-The website is developed using **HTML, CSS, JavaScript, PHP**, and **MySQL** to store user accounts, comments, and registration details.
+:Software Testing and Quality Assurance Mini Project Dynamic website of covid19 information using HTML, CSS, JAVASCRIPT And PHP, MySQL database used to store user account, comment, and registration form details. Regular Expression testcases for testing 
+purpose
 
-The Testing Module is created in **Java (Eclipse)** using **TestNG** and contains automated test cases focused on form validation using Regular Expressions.
-
-This project demonstrates **Software Testing and Quality Assurance** concepts by combining **web application development** with **test automation**.
-
----
-
-## Features
-- COVID-19 Information Website  
-- User Registration & Login  
-- Comment System  
-- MySQL Database Integration  
-- Regular Expression Validation Test Cases  
-- TestNG-based Automation  
-- Clean UI using HTML/CSS  
-- PHP Backend  
-
----
 
 ## Requirements
 
