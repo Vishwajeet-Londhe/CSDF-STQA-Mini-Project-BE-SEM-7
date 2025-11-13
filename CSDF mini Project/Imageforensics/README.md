@@ -78,7 +78,7 @@ python foreimg.py -n2 demo.jpg
 ```
 After you run the command, the tampered region is highlight with dark color.
 
-You also can chosse the block size kernel:
+You also can choose the block size kernel:
 
 ```
 python foreimg.py -n2 -s 7 demo.jpg
