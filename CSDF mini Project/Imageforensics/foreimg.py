@@ -1,4 +1,4 @@
-# Copyright (C) Vishwajeet, Vaibhavi, Sahil, Hemali
+# Copyright (C) Sahil,Vishwajeet, Vaibhavi, Hemali
 
 import numpy as np
 import numpy.matlib as npm
