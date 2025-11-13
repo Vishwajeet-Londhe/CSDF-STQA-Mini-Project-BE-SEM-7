@@ -16,6 +16,9 @@
   <!-- Custom styles for this template -->
   <link href="css/scrolling-nav.css" rel="stylesheet">
 
+    <!-- Custom styles for this template -->
+  <link href="css/custom-theme.css" rel="stylesheet">
+
 </head>
 
 <body id="page-top">
@@ -61,6 +64,7 @@
       <p class="lead">COVID19 - Testing Management System</p>
     </div>
   </header>
+  <img src="./img/covid.jpg" alt="" style="width:100%; height:300px;">
 
   <section id="about">
     <div class="container">

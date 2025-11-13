@@ -1,0 +1,42 @@
+:root {
+    --primary: #ff0011;  /* Violet-Blue */
+    --blue: #3300ff;
+    --indigo: #1555f5;
+    --purple: #d74316;
+    --cyan: #22d3ee;
+    --green: #10b981; 
+    --dark: #1e293b;
+}
+
+/* Navbar override */
+.navbar,
+.navbar-default,
+.navbar-inverse {
+    background: var(--primary) !important;
+}
+
+.navbar a,
+.navbar .nav-link {
+    color: #fff !important;
+}
+
+.navbar .nav-link:hover {
+    color: var(--cyan) !important;
+}
+
+/* Buttons */
+.btn-primary {
+    background: var(--primary) !important;
+    border-color: var(--primary) !important;
+}
+
+.btn-primary:hover {
+    background: var(--purple) !important;
+    border-color: var(--purple) !important;
+}
+
+/* HERO / top section change */
+header {
+    background: linear-gradient(120deg, var(--indigo), var(--cyan));
+    color: white !important;
+}
